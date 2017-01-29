@@ -1,0 +1,748 @@
+
+Top = 
+
+  struct with fields:
+
+           G1: [1×210 double]
+           G2: [1×210 double]
+            X: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+            Y: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+            L: [2×15 double]
+           CV: [1×210 double]
+    NodeLabel: [1 2 3 4 5 6 7 8 9 10 11 12 13 14 15]
+           CM: [15×15 double]
+
+
+model = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [30×1 char]
+      rhs: [30×1 double]
+        A: [30×225 double]
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×210 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     1     0     0     0     0     0     0     0     1     0     0     0     0     0
+
+  Column 15
+
+     1
+
+
+Total_Cost_Routing =
+
+   71.8243
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [31×1 char]
+      rhs: [31×1 double]
+        A: [31×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     0     0     0     0     0     0     1     1     1     0     0     0     0     0
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   71.9698
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [32×1 char]
+      rhs: [32×1 double]
+        A: [32×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     1     0     0     0     0     1     0     0     0     0     1     0     0     0
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   72.5457
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [33×1 char]
+      rhs: [33×1 double]
+        A: [33×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     0     0     0     0     1     0     0     0     0     1     0     0     0     0
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   72.7025
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [34×1 char]
+      rhs: [34×1 double]
+        A: [34×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     1     0     0     0     1     0     0     0     1     1     0     0     1     1
+
+  Column 15
+
+     1
+
+
+Total_Cost_Routing =
+
+   72.7890
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [35×1 char]
+      rhs: [35×1 double]
+        A: [35×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     0     0     0     0     0     0     1     1     0     0     0     0     0     0
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   78.0277
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [36×1 char]
+      rhs: [36×1 double]
+        A: [36×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     1     0     0     0     1     0     1     1     1     1     0     0     1     1
+
+  Column 15
+
+     1
+
+
+Total_Cost_Routing =
+
+   78.1007
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [37×1 char]
+      rhs: [37×1 double]
+        A: [37×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     0     0     0     0     1     0     0     0     0     1     0     0     1     1
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   78.6766
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [38×1 char]
+      rhs: [38×1 double]
+        A: [38×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     0     1     1     1     1     1     1     1     1     1     1     1     1     1
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   78.9787
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [39×1 char]
+      rhs: [39×1 double]
+        A: [39×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     0     0     0     0     1     0     0     0     0     1     0     0     0     1
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   79.0403
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [40×1 char]
+      rhs: [40×1 double]
+        A: [40×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     1     0     0     0     0     0     1     1     1     0     0     0     0     0
+
+  Column 15
+
+     1
+
+
+Total_Cost_Routing =
+
+   79.1133
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [41×1 char]
+      rhs: [41×1 double]
+        A: [41×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     0
+
+
+y =
+
+  Columns 1 through 14
+
+     1     0     0     0     0     1     1     1     1     0     1     0     0     0
+
+  Column 15
+
+     1
+
+
+Total_Cost_Routing =
+
+   79.8742
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [42×1 char]
+      rhs: [42×1 double]
+        A: [42×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+Objective_Function_Value_y_Za_value =
+
+     1
+
+
+finished =
+
+     1
+
+
+y =
+
+  Columns 1 through 14
+
+     0     0     0     0     0     0     0     0     0     0     0     0     1     1
+
+  Column 15
+
+     0
+
+
+Total_Cost_Routing =
+
+   79.8742
+
+
+Model_DegreeCon_SubSetAddedCons_TSPA = 
+
+  struct with fields:
+
+      obj: [225×1 double]
+    sense: [43×1 char]
+      rhs: [43×1 double]
+        A: [43×225 double]
+    vtype: 'B'
+
+
+p = 
+
+  GraphPlot with properties:
+
+     NodeColor: [1 0 0]
+    MarkerSize: 8
+        Marker: 'hexagram'
+     EdgeColor: [0 0.4470 0.7410]
+     LineWidth: 1
+     LineStyle: '-'
+     NodeLabel: {1×15 cell}
+     EdgeLabel: {1×15 cell}
+         XData: [16 11 3 10 10 20 17 20 14 8 19 10 4 8 14]
+         YData: [11 15 20 20 11 20 2 1 6 12 11 18 11 9 11]
+         ZData: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+  Show all properties
+
+
+ans = 
+
+  struct with fields:
+
+          status: 'OPTIMAL'
+     versioninfo: [1×1 struct]
+         runtime: 0.0070
+          objval: 79.8742
+               x: [225×1 double]
+           slack: [43×1 double]
+        objbound: 79.8742
+       itercount: 57
+    baritercount: 0
+       nodecount: 0
+
+
+>> 
