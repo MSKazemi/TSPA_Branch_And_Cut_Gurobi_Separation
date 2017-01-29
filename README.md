@@ -1,1 +1,2 @@
 # TSPA_Branch_And_Cut_Gurobi_Separation
+These codes were written in Matlab to find the optimal solution for TSPA with Gurobi API. In order to can use these codes you should download Gurobi API for Matlab. In these codes in order to decrease the performance was used the dynamic programming. Branch and Cut technique and separation approach is the main core of these codes. Feel free to contact with me for more information. mohsen.seyedkazemi@gmailcom   
